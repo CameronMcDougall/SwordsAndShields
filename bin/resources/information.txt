@@ -1,0 +1,6 @@
+Author- Cameron McDougall 
+
+The aim of the game is to get the sword pointing at the opponents face.
+Pieces have 3 possible weapons on each side of the piece(Shield,sword,nothing).
+Swords are the half rectangles that go inside the circle and shields are rectangles
+outside of the circle.";
